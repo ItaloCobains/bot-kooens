@@ -1,1 +1,1 @@
-Futuro bom de musica para discord ainda em desenvolvimento.
+Futuro bot de musica para discord ainda em desenvolvimento.
