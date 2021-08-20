@@ -73,7 +73,7 @@ async def get_random_image(ctx):
         description = "a busca e full randon",
         color = 0x0000ff
     )
-        
+
     embed.set.author(name=bot.user.name, icon_url=bot.user.avatar_url)
     embed.set.footer(text=bot.user.name , icon_url=bot.user.avatar_url)
     embed.set.image(url=url_image)
@@ -97,4 +97,4 @@ async def current_time():
 
 
 # Run 
-bot.run('ODc4MzE1ODI2Mjg4MTQ0Mzg0.YR_ZWw.DMIa4RIlBQZkH4m4FUs283MqhWQ')
+bot.run('TOKEN')
